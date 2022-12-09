@@ -1,0 +1,22 @@
+h1
+{
+  font-family: 'Courier New', Courier, monospace;
+}
+*
+{
+  text-align: center;
+  font-size: 45px;
+}
+
+label
+{ 
+  font-size: 90px; 
+  vertical-align: middle; 
+}
+
+input
+{
+  width: 3cm;
+  margin-bottom: 15px;
+  margin-left: 5px
+}
